@@ -17,7 +17,7 @@ O objetivo deste teste é avaliar seus conhecimentos em organização, boas prá
 
 ### O Desafio
 
-O objectivo é desenvolver uma API que fará o agrupamento de locais. A Contele irá disponibilizar 50 mil pontos via JSON e você deverá desenvolver um algoritmo para fazer o agrupamento desses locais. A sua API deverá receber como parâmetro os seguintes itens:
+O objetivo é desenvolver uma API que fará o agrupamento de locais. A Contele irá disponibilizar 50 mil pontos via JSON e você deverá desenvolver um algoritmo para fazer o agrupamento desses locais. A sua API deverá receber como parâmetro os seguintes itens:
 
 * zoom = O valor desse item deverá interferir no agrupamento
 * minZoom = O valor mínimo do zoom para o cálculo
